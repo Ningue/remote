@@ -1,0 +1,364 @@
+# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-3-1.html
+
+MainWindowBackground = #414142
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+RestoreSession = false
+TabWidth = 0
+
+FixedPageUI [
+	TextColor = #d6d6db
+	BackgroundColor = #202124
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+	HideScrollbars = true
+]
+EbookUI [
+	FontName = simkai
+	FontSize = 12.5
+	TextColor = #abb2bf
+	BackgroundColor = #282c34
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+Annotations [
+	HighlightColor = #ffff00
+]
+CustomScreenDPI = 1
+
+RememberStatePerDocument = true
+UiLanguage = cn
+ShowToolbar = true
+ShowFavorites = false
+AssociateSilently = false
+CheckForUpdates = true
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+WindowState = 2
+WindowPos = 0 0 0 0
+ShowToc = true
+SidebarDx = 150
+TocDy = 0
+TreeFontSize = 0
+ShowStartPage = true
+UseTabs = true
+
+FileStates [
+	[
+		FilePath = C:\Users\86158\Desktop\操作系统.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\86158\Desktop\vim命令.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 237.117
+		PageNo = 9
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\86158\Downloads\2021王道计算机组成原理考研复习指导 by 王道论坛 (z-lib.org).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 634.079
+		PageNo = 105
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\86158\Downloads\2021 王道数据结构考研复习指导 by 王道论坛 (z-lib.org).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 267.703
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\86158\Downloads\2021操作系统考研复习指导 by 王道论坛 (z-lib.org).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 479.149
+		PageNo = 155
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 28
+	]
+	[
+		FilePath = C:\Users\86158\Downloads\2021 王道操作系统考研复习指导 by 王道论坛 (z-lib.org).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\86158\Desktop\深入理解计算机系统 by Randal E. Bryant, David R. O’Hallaron (z-lib.org).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 138.361
+		PageNo = 59
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 22 87 107 135
+	]
+	[
+		FilePath = C:\Users\86158\Desktop\学习资源-新整理\计算机基础\深入理解计算机系统（中文版）.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 830.623
+		PageNo = 23
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 480
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\86158\Desktop\os\自己动手写操作系统 .pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 773.439
+		PageNo = 21
+		Zoom = 6400
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 480
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\86158\Desktop\leetcode-cpp.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -0.335741
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = true
+		SidebarDx = 480
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\86158\AppData\Local\Temp\Temp1_leetcode-cpp.zip\leetcode-cpp.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -0.335741
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = true
+		SidebarDx = 480
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\86158\Desktop\《Python 3网络爬虫开发实战》中文PDF+源代码\《Python 3网络爬虫开发实战》中文PDF+源代码\《Python 3网络爬虫开发实战》中文PDF.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 578.281
+		PageNo = 25
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 480
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\86158\Desktop\CS-Xmind-Note\数据结构\数据结构.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -0.433558
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 480
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\86158\Documents\电子书\雪中悍刀行.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 480
+		DisplayR2L = false
+		ReparseIdx = 2298
+		TocState = 1
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 561
+
+# Settings after this line have not been recognized by the current version
